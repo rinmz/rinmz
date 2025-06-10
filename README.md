@@ -1,21 +1,24 @@
-**.init**  
+### .init  
 
-Hi, I'm Reis! I started coding at the age of 9 when my father brought home a CRT computer.  
+Hi, I'm Reis! I started coding at the age of 9, when my father brought home a CRT computer.  
 I'm a self-taught developer currently studying Computer Science. You can find more about my background on my [LinkedIn](https://your-linkedin-url.com) profile.
 
-**.now**  
+
+### .now   
 
 These days, I'm especially interested in how large language models process user input — particularly around token counting and prompt structure.  
 I'm also actively developing backend applications using Django, with a focus on scalable and maintainable system architecture.
 
-**.code**  
+
+### .code  
 
 I use GitHub to archive code that I don't mind sharing publicly, and to contribute to open-source projects where I can offer meaningful improvements.
 
 - 📦 I archive side projects that are safe to share publicly.
 - I contribute to community-driven and open-source projects when possible.
 
-**.hist**  
+
+### .hist  
 
 At age 10, after reading intriguing topics in National Geographic magazines, I searched “how to create a website” — and that search opened the door to a world much bigger than I expected.  
 Encouraged by other developers who appreciated my curiosity, I taught myself the essentials of front-end development.
