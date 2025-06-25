@@ -1,6 +1,6 @@
 ### .init  
 
-Hi, I'm Reis! I started coding at the age of 9, when my father brought home a CRT computer. I'm a self-taught developer currently studying Computer Science. You can find more about my background on my [LinkedIn](https://your-linkedin-url.com) profile.
+Hi, I'm Reis! I started coding at the age of 11, when my father brought home a CRT computer. I'm a self-taught developer currently studying Computer Science. You can find more about my background on my [LinkedIn](https://your-linkedin-url.com) profile.
 
 
 ### .now   
