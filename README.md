@@ -6,7 +6,7 @@ Self-taught developer studying Computer Science. I started coding at 11 and have
 
 ### Projects
 
-- **[FIFA07.online](https://fifa07.online):** Django site for the FIFA 07 online community: leagues, tournaments, live presence.
+- **[FIFA07 community site](https://github.com/rinmz/fifa07-community-site):** Django site for the FIFA 07 online community: leagues, tournaments, live presence.
 - **[07 Link](https://github.com/rinmz/07link):** Online launcher for FIFA 07. Create a room, invite a friend, play.
 - **[Tempo](https://github.com/rinmz/tempo):** Chrome extension for YouTube playback speed, sponsor skipping and time saved.
 - **[FIFA 07 DB Tool](https://github.com/rinmz/fifadbtool):** Windows desktop utility for switching FIFA 07 database files.
