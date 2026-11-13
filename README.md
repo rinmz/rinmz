@@ -1,26 +1,25 @@
-### .init  
+### Hi, I'm Reis
 
-Hi, I'm Reis! I started coding at the age of 11, when my father brought home a CRT computer. I'm a self-taught developer currently studying Computer Science. You can find more about my background on my [LinkedIn](https://your-linkedin-url.com) profile.
+Self-taught developer studying Computer Science. I started coding at 11 and have been building web and backend projects since. [LinkedIn](https://www.linkedin.com/in/reisinanmaz/)
 
+**Stack:** Python, Django, SQL, C, JavaScript
 
-### .now   
+### Projects
 
-These days, I'm especially interested in how large language models process user input — particularly around token counting and prompt structure. I'm also actively developing backend applications using Django, with a focus on scalable and maintainable system architecture.
+- **[FIFA07.online](https://fifa07.online):** Django site for the FIFA 07 online community: leagues, tournaments, live presence.
+- **[07 Link](https://github.com/rinmz/07link):** Online launcher for FIFA 07. Create a room, invite a friend, play.
+- **[Tempo](https://github.com/rinmz/tempo):** Chrome extension for YouTube playback speed, sponsor skipping and time saved.
+- **[FIFA 07 DB Tool](https://github.com/rinmz/fifadbtool):** Windows desktop utility for switching FIFA 07 database files.
+- **[Headspace album art](https://github.com/rinmz/headspace-album-art):** Patch that shows album art in the classic Windows Media Player skin.
+- **[Pathfinding agent](https://github.com/rinmz/pathfinding-agent):** Grid pathfinding with per-goal path memory, visualized in Pygame.
 
+### Background
 
-### .code  
+- 2016: ranked 16th of 1,000 in a webMe website competition; the site was featured as an example for new users.
+- Built Flash games in ActionScript 3.0 and a site to host them.
+- Wrote C scripts and libraries for multiplayer games, shared on community forums for about 4 years.
+- 2020: back to backend work with Django, building user-contributed, dictionary-style apps.
 
-I use GitHub to archive code that I don't mind sharing publicly, and to contribute to open-source projects where I can offer meaningful improvements.
+### Now
 
-- 📦 I archive side projects that are safe to share publicly.
-- I contribute to community-driven and open-source projects when possible.
-
-
-### .hist  
-
-At age 10, after reading intriguing topics in National Geographic magazines, I searched “how to create a website” — and that search opened the door to a world much bigger than I expected. Encouraged by other developers who appreciated my curiosity, I taught myself the essentials of front-end development.
-
-- In 2016, at just 13 years old, I ranked 16th among 1,000 participants in a website competition by webMe. My site was featured as an example for new users on the platform.  
-- I began creating Flash games using design tools and ActionScript 3.0 for Flash Player 9+, and later built a game website to host them.  
-- I learned C to develop scripts for multiplayer games, writing and sharing custom libraries on community forums for about 4 years.  
-- In 2020, I returned to backend development and started building crowdsourced dictionary-style apps with Django, focusing on content architecture and user-contributed systems.
+Backend systems with Django, and how language models handle input: token counting and prompt structure.
